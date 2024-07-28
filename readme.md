@@ -12,4 +12,3 @@ MVC:\
 Model: maintains the data and behavior of an application\
 View: displays the model in the ui\
 Controller: serves as an interface between view & model components
-
